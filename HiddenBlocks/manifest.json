@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
   "author": "Kyle 1413",
   "description": "",
-  "gameVersion": "1.33.0",
+  "gameVersion": "1.34.2",
   "id": "HiddenBlocks",
   "name": "HiddenBlocks",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "dependsOn": {
     "BeatSaberMarkupLanguage": "^1.6.0",
     "BSIPA": "^4.2.1",
